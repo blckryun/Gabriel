@@ -10,7 +10,6 @@ Tecnologias
 
 - Java
 - Git e GitHub
-- Figma
 
 Objetivo
 
