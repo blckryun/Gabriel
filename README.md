@@ -6,11 +6,11 @@ Atualmente estudando **Java** e desenvolvimento **Back-end**.
 
 Sempre buscando aprender e desenvolver novos projetos.
 
-##Tecnologias
+## Tecnologias
 
 - Java
 - Git e GitHub
 
-##Objetivo
+## Objetivo
 
 Evoluir como desenvolvedor e adquirir cada vez mais experiência na área de tecnologia.
